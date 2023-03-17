@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/nareix/joy5/format/flv/flvio"
+	"github.com/HECTOPK/joy5/format/flv/flvio"
 )
 
 type ReadWriteFlusher interface {

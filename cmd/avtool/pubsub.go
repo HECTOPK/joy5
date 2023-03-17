@@ -10,8 +10,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/nareix/joy5/av"
-	"github.com/nareix/joy5/format/rtmp"
+	"github.com/HECTOPK/joy5/av"
+	"github.com/HECTOPK/joy5/format/rtmp"
 )
 
 type gopCacheSnapshot struct {

@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/nareix/joy5/av"
-	"github.com/nareix/joy5/format/flv"
+	"github.com/HECTOPK/joy5/av"
+	"github.com/HECTOPK/joy5/format/flv"
 )
 
 func doSkipGop(src, dst string) error {

@@ -5,8 +5,8 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/nareix/joy5/format/flv/flvio"
-	"github.com/nareix/joy5/utils/bits/pio"
+	"github.com/HECTOPK/joy5/format/flv/flvio"
+	"github.com/HECTOPK/joy5/utils/bits/pio"
 )
 
 type message struct {
